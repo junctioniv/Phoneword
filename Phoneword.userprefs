@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword_Droid\MainActivity.cs">
+    <Files>
+      <File FileName="Phoneword_Droid\PhoneTranslator.cs" Line="6" Column="6" />
+      <File FileName="Phoneword_Droid\MainActivity.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Phoneword__Droid MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
